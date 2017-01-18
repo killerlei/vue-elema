@@ -1,4 +1,4 @@
-language: node_js
+language: JAVASCRIPT 
 node_js:
     - 4
 install:
