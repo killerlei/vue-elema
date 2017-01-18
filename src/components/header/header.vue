@@ -1,6 +1,7 @@
 <template>
   <div class="header">
     <!--上部内容-->
+    <!--<img src="./111.jpg" alt="">-->
     <div class="content-wrapper">
       <!--头像-->
       <div class="avatar">

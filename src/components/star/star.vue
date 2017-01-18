@@ -1,5 +1,5 @@
 <template>
-  <<div class="star" :class="'star-'+size">
+  <div class="star" :class="'star-'+size">
   <span class="star-item" v-for="c in itemClasses" :class="c" track-by="$index"></span>
 </div>
 </template>
